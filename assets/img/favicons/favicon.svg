@@ -1,0 +1,40 @@
+<svg width="201" height="201" viewBox="0 0 201 201" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M84.5255 40.4636C90.2461 25.9732 110.754 25.9732 116.475 40.4636V40.4636C119.765 48.7984 128.91 53.2026 137.478 50.5785V50.5785C152.374 46.0165 165.161 62.0501 157.398 75.5573V75.5573C152.933 83.3265 155.192 93.2227 162.586 98.2853V98.2853C175.44 107.087 170.877 127.081 155.476 129.433V129.433C146.618 130.787 140.29 138.723 140.941 147.66V147.66C142.074 163.197 123.598 172.095 112.156 161.522V161.522C105.575 155.44 95.4247 155.44 88.8438 161.522V161.522C77.4025 172.095 58.9256 163.197 60.0586 147.66V147.66C60.7104 138.723 54.3815 130.787 45.5235 129.433V129.433C30.1235 127.081 25.5601 107.087 38.4142 98.2853V98.2853C45.8078 93.2227 48.0665 83.3265 43.6017 75.5573V75.5573C35.8394 62.0501 48.6258 46.0165 63.5216 50.5785V50.5785C72.0896 53.2026 81.235 48.7984 84.5255 40.4636V40.4636Z" fill="url(#paint0_linear_2019_3)"/>
+<circle cx="101" cy="101" r="48" fill="url(#paint1_linear_2019_3)"/>
+<path d="M121.579 114.745C122.731 114.562 123.482 115.873 122.86 116.811C119.163 122.383 113.027 126.508 105.644 127.677C98.261 128.846 91.1515 126.82 85.9133 122.663C85.0314 121.963 85.3408 120.484 86.4935 120.302C86.8292 120.249 87.1632 120.335 87.435 120.521C92.3059 123.869 98.5974 125.431 105.124 124.398C111.651 123.364 117.152 119.934 120.75 115.245C120.951 114.983 121.243 114.798 121.579 114.745Z" fill="#793333" stroke="#793333" stroke-linejoin="round"/>
+<path d="M118.128 59.72C130.192 59.72 137.912 68.98 137.912 83.0745C137.912 97.1691 130.192 104.12 118.128 104.12C111.52 104.12 106.216 102.034 102.77 97.8313C100.321 106.588 93.5066 110.92 83.9834 110.92C71.9193 110.92 64.2002 103.969 64.2002 89.8743C64.2003 75.7801 71.9194 66.52 83.9834 66.5198C90.6831 66.5198 96.0415 69.3768 99.4834 74.3304C102.046 65.2758 108.783 59.72 118.128 59.72Z" fill="url(#paint2_linear_2019_3)"/>
+<path d="M98.0592 84.2191C98.0592 92.8607 93.6154 97.1223 86.6702 97.1223C79.7251 97.1223 75.2812 92.8607 75.2812 84.2191C75.2812 75.5775 79.7251 69.9001 86.6702 69.9001C93.6154 69.9001 98.0592 75.5775 98.0592 84.2191Z" fill="url(#paint3_radial_2019_3)"/>
+<circle cx="89.1255" cy="77.8454" r="7.05227" fill="url(#paint4_linear_2019_3)"/>
+<path d="M134.646 77.7331C134.646 86.3747 130.202 90.6362 123.257 90.6362C116.312 90.6362 111.868 86.3747 111.868 77.7331C111.868 69.0915 116.312 63.414 123.257 63.414C130.202 63.414 134.646 69.0915 134.646 77.7331Z" fill="url(#paint5_radial_2019_3)"/>
+<circle cx="125.713" cy="71.3594" r="7.05227" fill="url(#paint6_linear_2019_3)"/>
+<defs>
+<linearGradient id="paint0_linear_2019_3" x1="189.066" y1="173.111" x2="26.3812" y2="30.4012" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF3D00"/>
+<stop offset="1" stop-color="#FFBA1F"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2019_3" x1="53" y1="53" x2="149" y2="149" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE500"/>
+<stop offset="1" stop-color="#FF981F"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2019_3" x1="100.867" y1="53.069" x2="100.867" y2="125.015" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#FFFFDD" stop-opacity="0.666667"/>
+</linearGradient>
+<radialGradient id="paint3_radial_2019_3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(82.288 70.9119) rotate(78.5134) scale(35.1059 29.3746)">
+<stop offset="0.309103" stop-color="#793333"/>
+<stop offset="1" stop-color="#472626"/>
+</radialGradient>
+<linearGradient id="paint4_linear_2019_3" x1="89.1255" y1="70.7932" x2="89.1255" y2="84.8977" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.838542" stop-color="#FFFFCC" stop-opacity="0.866667"/>
+</linearGradient>
+<radialGradient id="paint5_radial_2019_3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(118.875 64.4259) rotate(78.5134) scale(35.1059 29.3746)">
+<stop offset="0.309103" stop-color="#793333"/>
+<stop offset="1" stop-color="#472626"/>
+</radialGradient>
+<linearGradient id="paint6_linear_2019_3" x1="125.713" y1="64.3071" x2="125.713" y2="78.4117" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="0.838542" stop-color="#FFFFCC" stop-opacity="0.866667"/>
+</linearGradient>
+</defs>
+</svg>
